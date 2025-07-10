@@ -41,7 +41,7 @@
 <h2>🎯 Currently Working On:</h2>
 
 - An automated drink dispenser project to develop practical embedded systems, CAD, and control system skills.
-- Improving Python for future signal processing and ESA data analysis on the BIOMASS satelite.
+- Improving Python for future signal processing (SAR) and ESA data analysis on the BIOMASS satelite.
 
 ---
 
