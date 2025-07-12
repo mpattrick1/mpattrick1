@@ -1,12 +1,12 @@
 <h1>Hi, I'm Matt! 👋</h1>
 
-🎓 **MEng Mechatronic and Robotic Engineering** student at the **University of Sheffield** (2024–2028)  
-🔧 Interested in **Robotics, Embedded Systems, and Control Engineering**  
-🌱 Building practical skills in **MATLAB, Simulink, C, and embedded microcontroller projects**
+MEng Mechatronic and Robotic Engineering student at the University of Sheffield (2024–2028)  
+Interested in Robotics, Embedded Systems, and Control Engineering
+Building practical skills in MATLAB, Simulink, C, and embedded microcontroller projects
 
 ---
 
-<h2>🤖 Engineering & Coding Projects:</h2>
+<h2> Engineering & Coding Projects:</h2>
 
 - <b>Embedded Systems (PIC Microcontrollers)</b>
 - [Line Following Robot with PID Control](https://github.com/mpattrick1/Line_Following_Robot)  
@@ -26,19 +26,19 @@
     Developed a football manager-style simulation game in C, focusing on struct arrays and simulation loops.
 
 - <b>PLC Labs</b>
-  - [PLC Programming Exercises](https://github.com/mpattrick1/PLC_Lab_Practices) *(optional)*  
+  - [PLC Programming Exercises](https://github.com/mpattrick1/PLC_Lab_Practices) 
     Basic ladder logic and sensor integration exercises completed during lab sessions.
 
 ---
 
-<h2>📊 Engineering Design & Team Projects</h2>
+<h2> Engineering Design & Team Projects</h2>
 
-- 🛠️ **Global Engineering Challenge Week**  
-  Collaborated in a multi-disciplinary team using the engineering design cycle, STEEPLE analysis, and SMART goal setting, achieving **89% on the final report**.
+- Global Engineering Challenge Week  
+  Collaborated in a multi-disciplinary team using the engineering design cycle, STEEPLE analysis, and SMART goal setting, achieving 89% on the final report.
 
 ---
 
-<h2>🎯 Currently Working On:</h2>
+<h2> Currently Working On:</h2>
 
 - An automated drink dispenser project to develop practical embedded systems, CAD, and control system skills.
 - Improving Python for future signal processing (SAR) and ESA data analysis on the BIOMASS satelite.
@@ -46,9 +46,7 @@
 ---
 
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
-[<img align="left" alt="Matthew Pattrick | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[linkedin]: www.linkedin.com/in/matthew-pattrick-99102a14a
+On Linkedin: www.linkedin.com/in/matthew-pattrick-99102a14a
 
