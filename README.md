@@ -25,9 +25,7 @@ Building practical skills in MATLAB, Simulink, C, and embedded microcontroller p
   - [Football Simulator](https://github.com/mpattrick1/Football_Simulator_C)  
     Developed a football manager-style simulation game in C, focusing on struct arrays and simulation loops.
 
-- <b>PLC Labs</b>
-  - [PLC Programming Exercises](https://github.com/mpattrick1/PLC_Lab_Practices) 
-    Basic ladder logic and sensor integration exercises completed during lab sessions.
+> Disclaimer: The repositories listed above are a personal academic record. If you're a student taking this module, do not copy any part of this work. Always follow your university's academic integrity policy.
 
 ---
 
